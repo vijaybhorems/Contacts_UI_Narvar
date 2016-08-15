@@ -2,6 +2,8 @@
 
 This is User Interfact for the Contacts REST server. 
 
+Please make sure to run Contacts app before following the steps below.
+
 It is a single page app which lists existing contacts and lets you add a new contact by providing Name, Email and Profession.
 
 Please open the folder in an app like Brackets. 
