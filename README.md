@@ -2,7 +2,8 @@
 
 This is User Interfact for the Contacts REST server. 
 
-Please make sure to run Contacts app before following the steps below.
+Please make sure to run Contacts Spring Boot App before following the steps below. 
+The code for Contacts Spring Boot App is at: https://github.com/vijaybhorems/Contacts_Narvar
 
 It is a single page app which lists existing contacts and lets you add a new contact by providing Name, Email and Profession.
 
